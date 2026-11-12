@@ -1,6 +1,6 @@
 # RMIT Hack-A-Venture 2026 — AI Venture Innovation Showcase
 
-An architectural and methodology showcase for **RMIT Hack-A-Venture 2026**, bridging cross-lingual NLP modeling with scalable technological venture architecture.
+An architectural and methodology showcase for [**RMIT Hack-A-Venture 2026**](http://rmithackaventure.com/) ↗, bridging cross-lingual NLP modeling with scalable technological venture architecture.
 
 ---
 
